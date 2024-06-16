@@ -195,7 +195,7 @@ body {
     color: #fb6f92;
     text-align: center;
     padding: 10px 0;
-    font-size: 18px;
+    font-size: 14px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -203,8 +203,8 @@ body {
 
 .heart {
     animation: blink 1s linear infinite;
-    width: 16px;
-    height: 16px;
+    width: 24px;
+    height: 24px;
     margin-left: 5px;
 }
 @keyframes blink {
