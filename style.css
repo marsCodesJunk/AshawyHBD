@@ -203,8 +203,8 @@ body {
 
 .heart {
     animation: blink 1s linear infinite;
-    width: 24px;
-    height: 24px;
+    width: 16px;
+    height: 16px;
     margin-left: 5px;
 }
 @keyframes blink {
