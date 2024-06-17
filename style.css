@@ -211,19 +211,33 @@ body {
   }
 }
 
-.footer {
+.footer1 {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     color: #fb6f92;
     text-align: center;
-    padding: 30px 0;
+    padding: 50px 0;
     font-weight: bold;
     font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.footer2 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #fb6f92;
+  text-align: center;
+  padding: 30px 0;
+  font-weight: bold;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .heart {
